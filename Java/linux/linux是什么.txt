@@ -1,0 +1,2 @@
+1.linux是由Kernel和System Call构成的OS。
+2.
